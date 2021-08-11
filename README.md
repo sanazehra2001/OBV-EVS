@@ -38,3 +38,5 @@ The software adopts model-view-controller (MVC) approach.
 *	Apache Tomcat Server version 9 has been used. It is a simple to use web server which can be used at commercial scale also.
 ###### DATABASE
 *	MS Access 2016 was used to create a database named “EVoting.accdb”. The database contains tables for storing user, constituencies, voters, political parties, candidates and votes. Other tables include those implementing many-to-many relationships.
+
+Demo is also available in the uploaded files
