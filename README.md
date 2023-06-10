@@ -43,4 +43,31 @@ Demo is also available in the uploaded files
 
 ![image](https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bbb93da9-810a-4928-a642-45cb2e917b94)
 
+<img width="609" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/f861dd6e-8631-453e-94a4-ff6114049508">
+
+<img width="609" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/c04567f8-9235-465f-bc67-927e8249e1f0">
+
+###### Login Details:
+| Username | User Type | Password |
+| mubeen732 | ECP | lAkBQMz511 |
+| awais193 | Returning officer | oM7wCMnZoq |
+| shahid800 | Polling officer | 8hJFu4fdiH |
+
+ECP can access and modify Election Schedule, Constituencies, Parties and Returning Officers
+<img width="612" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/fe6f563a-d12f-4b4e-abac-f5e66723e097">
+
+Returning Officer can view and modify Candidates and Polling Officers
+<img width="607" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bf1e0575-065c-48c1-a0dc-958620eaae7a">
+
+Polling officer will the account on the day of Election. Officer will be responisble for casting votes. He/she will enter the CNIC of citizen and select the fingerprint reader to capture the thumb impression
+<img width="610" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/965169d2-dfa4-47cb-aa06-f0c3b445f0d2">
+
+If the CNIC and thumb impression are verified, user will be directed to the form from where he / she can cast their vote.
+<img width="607" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/cf1b948b-48c7-4d0d-95c7-a2a48ff5bd52">
+
+<img width="608" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/7a083048-ef37-48be-a0c3-010692b761da">
+
+Voter can also verify their polling station details  from the website
+<img width="609" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/0a84b4a0-1b44-4636-8f9b-b7359bae8f91">
+
 
