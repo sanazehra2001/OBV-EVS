@@ -43,6 +43,4 @@ Demo is also available in the uploaded files
 
 ![image](https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bbb93da9-810a-4928-a642-45cb2e917b94)
 
-<img width="866" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bf27cf1a-7abf-4774-99ed-f99fbf24eaa1">
-
 
