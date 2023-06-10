@@ -49,6 +49,7 @@ Demo is also available in the uploaded files
 
 ###### Login Details:
 | Username | User Type | Password |
+--- | --- | --- 
 | mubeen732 | ECP | lAkBQMz511 |
 | awais193 | Returning officer | oM7wCMnZoq |
 | shahid800 | Polling officer | 8hJFu4fdiH |
@@ -65,9 +66,9 @@ Polling officer will the account on the day of Election. Officer will be responi
 If the CNIC and thumb impression are verified, user will be directed to the form from where he / she can cast their vote.
 <img width="607" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/cf1b948b-48c7-4d0d-95c7-a2a48ff5bd52">
 
+Voter can also verify their polling station details  from the website
 <img width="608" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/7a083048-ef37-48be-a0c3-010692b761da">
 
-Voter can also verify their polling station details  from the website
 <img width="609" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/0a84b4a0-1b44-4636-8f9b-b7359bae8f91">
 
 
