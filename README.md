@@ -40,3 +40,9 @@ The software adopts model-view-controller (MVC) approach.
 *	MS Access 2016 was used to create a database named “EVoting.accdb”. The database contains tables for storing user, constituencies, voters, political parties, candidates and votes. Other tables include those implementing many-to-many relationships.
 
 Demo is also available in the uploaded files
+
+![image](https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bbb93da9-810a-4928-a642-45cb2e917b94)
+
+<img width="866" alt="image" src="https://github.com/sanazehra2001/OBV-EVS/assets/76579833/bf27cf1a-7abf-4774-99ed-f99fbf24eaa1">
+
+
